@@ -24,4 +24,4 @@ Question7 (skipped)
 
 Question 8: What is the raw URL to your Python script on GitHub?
 
-https://github.com/joshdeng/comput404lab1
+https://raw.githubusercontent.com/joshdeng/comput404lab1/master/checkversion.py
