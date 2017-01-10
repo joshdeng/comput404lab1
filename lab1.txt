@@ -1,0 +1,26 @@
+Question 1: What is your GitHub URL?
+https://github.com/joshdeng		
+
+Question 2: What version is the requestslibrary installed on the system?
+2.11.1
+
+
+Question 3: What version is the requestslibrary installed in the virtualenv?
+2.12.4
+
+Question 4: Does your script print out the same version? Why?
+No, because one is in virtual environment and one is not.		
+
+Question 5: What status code is returned? What URL must you visit to get a 200 status code?
+HTTP/1.1 302 Found,
+http://www.google.ca/?gfe_rd=cr&ei=wP90WP-HFYu_-APC-4DgBQ
+
+Question 6: What status code is returned this time? Is it the one returned by curl ­ior
+curl ­iL?	
+
+200, curl ­iL.
+
+Question7 (skipped)
+
+Question 8: What is the raw URL to your Python script on GitHub?
+
